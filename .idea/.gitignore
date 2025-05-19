@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/ # If using Maven/Gradle later
+
+# Mac specific
+.DS_Store
+
+# Build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
